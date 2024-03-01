@@ -40,6 +40,6 @@ This project presents a multiplayer Pair Guessing Game, akin to the classic Memo
 - Designed to ensure server stability and robustness, even in the event of unexpected client disconnections.
 
 ## Additional Information
-The game's infrastructure is built to be intuitive and user-friendly, promoting an engaging multiplayer experience. Through the use of Protobuf and a well-structured server-client protocol, the Pair Guessing Game stands as a model for developing networked multiplayer games.#   P a i r - G u e s s i n g - G a m e - O v e r v i e w 
+The game's infrastructure is built to be intuitive and user-friendly, promoting an engaging multiplayer experience. Through the use of Protobuf and a well-structured server-client protocol, the Pair Guessing Game stands as a model for developing networked multiplayer games.
  
  
